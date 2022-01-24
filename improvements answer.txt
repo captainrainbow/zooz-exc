@@ -1,0 +1,8 @@
+the mission has yet to be completed, in the time frame (which was enough) i havent managed to finish the task, i lacked some knowledge in aws and terraform, but from what i've
+read, i know i was somewhere close to it, the thing i lacked (i think) is a load balancer, the resource that will give access from the internet to the containers.
+i hope it was enough :) 
+
+as per the other questions here is the answer:
+
+4. For availabillity improvements, I would suggest adding another load balancer (total of two) and also copying this same architechture to another location.
+
